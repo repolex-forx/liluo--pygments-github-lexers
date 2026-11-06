@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/liluo/pygments-github-lexers/commit/02df3a52c2c93312bab648cf15ea9c642aea9bd7",
       "git:hexsha": "02df3a52c2c93312bab648cf15ea9c642aea9bd7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.0.5"
     },
     {
