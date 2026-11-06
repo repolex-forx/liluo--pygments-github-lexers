@@ -1,0 +1,11 @@
+{
+  "org": "liluo",
+  "repo": "pygments-github-lexers",
+  "versions": [
+    {
+      "commit": "02df3a52c2c93312bab648cf15ea9c642aea9bd7",
+      "tag": "v0.0.5",
+      "parsed_at": "2026-11-06T02:35:45.205384+00:00"
+    }
+  ]
+}
